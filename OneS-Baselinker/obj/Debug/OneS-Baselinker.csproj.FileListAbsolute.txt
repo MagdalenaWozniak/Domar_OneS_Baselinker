@@ -1,0 +1,20 @@
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker\OneS-Baselinker\bin\Debug\OneS-Baselinker.exe.config
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker\OneS-Baselinker\bin\Debug\OneS-Baselinker.exe
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker\OneS-Baselinker\bin\Debug\OneS-Baselinker.pdb
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker\OneS-Baselinker\obj\Debug\OneS-Baselinker.csproj.CoreCompileInputs.cache
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker\OneS-Baselinker\obj\Debug\OneS-Baselinker.exe
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker\OneS-Baselinker\obj\Debug\OneS-Baselinker.pdb
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker\OneS-Baselinker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker\OneS-Baselinker\obj\Debug\OneS-Baselinker.csproj.CopyComplete
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker\OneS-Baselinker\obj\Debug\OneS-Baselinker.csproj.AssemblyReference.cache
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker\OneS-Baselinker\bin\Debug\cdn_api20202.net.dll
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker — kopia\OneS-Baselinker\obj\Debug\OneS-Baselinker.csproj.AssemblyReference.cache
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker — kopia\OneS-Baselinker\obj\Debug\OneS-Baselinker.csproj.CoreCompileInputs.cache
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker — kopia\OneS-Baselinker\obj\Debug\OneS-Baselinker.exe
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker — kopia\OneS-Baselinker\obj\Debug\OneS-Baselinker.pdb
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker — kopia\OneS-Baselinker\bin\Debug\OneS-Baselinker.exe.config
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker — kopia\OneS-Baselinker\bin\Debug\OneS-Baselinker.exe
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker — kopia\OneS-Baselinker\bin\Debug\OneS-Baselinker.pdb
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker — kopia\OneS-Baselinker\bin\Debug\cdn_api20220.net.dll
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker — kopia\OneS-Baselinker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\krzysztof.bouzyk\source\repos\OneS-Baselinker — kopia\OneS-Baselinker\obj\Debug\OneS-Baselinker.csproj.CopyComplete

@@ -1,0 +1,61 @@
+     1 O 2020-10-26 15:07:53   Plik CDN.systemcdn nie mo¿e zostaæ otwarty.|Cannot open database "DOMAR" requested by the login. The login failed.
+Login failed for user 'ComarchCDNXL'.(37000).
+     2 ! 2020-10-26 15:07:53   B³¹d dostêpu do danych.|Operacja zostanie odwo³ana.
+     1 O 2020-10-26 15:22:58   Plik CDN.systemcdn nie mo¿e zostaæ otwarty.|Cannot open database "DOMAR" requested by the login. The login failed.
+Login failed for user 'ComarchCDNXL'.(37000).
+     2 ! 2020-10-26 15:22:58   B³¹d dostêpu do danych.|Operacja zostanie odwo³ana.
+     1 I 2020-10-26 16:12:32   Wykryto aktywne sesje modu³u X:GetOrders uruchomione na tym komputerze.|Czy chcesz usun¹æ informacje zapisane przez te sesje?
+     2 I 2020-10-26 16:12:33   Program wykry³, ¿e poprzednia sesja programu X:GetOrders na którym pracowa³ operator ADMIN nie zosta³a poprawnie zakoñczona.|Informacja o tym fakcie zosta³a zapisana dla wiadomoœci Administratora.
+     1 O 2021-01-19 15:59:19   Modu³ Licencja stanowiskowa jest niedostêpny. Dzia³anie programu zostanie zablokowane.||Przyczyna:|Licencje zosta³y wyczerpane
+     2 I 2021-01-19 15:59:19   Wykryto aktywne sesje modu³u X:GetOrders uruchomione na tym komputerze.|Czy chcesz usun¹æ informacje zapisane przez te sesje?
+     3 I 2021-01-19 15:59:19   Program wykry³, ¿e poprzednia sesja programu X:GetOrders na którym pracowa³ operator ADMIN nie zosta³a poprawnie zakoñczona.|Informacja o tym fakcie zosta³a zapisana dla wiadomoœci Administratora.
+     4 O 2021-01-19 15:59:21   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: NoweZamowienie.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     5 O 2021-01-19 15:59:23   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: DodajPozycjeZamowienia.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     6 O 2021-01-19 15:59:23   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: DodajPozycjeZamowienia.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     1 O 2021-01-19 16:02:00   Modu³ Licencja stanowiskowa jest niedostêpny. Dzia³anie programu zostanie zablokowane.||Przyczyna:|Licencje zosta³y wyczerpane
+     2 I 2021-01-19 16:02:00   Wykryto aktywne sesje modu³u X:GetOrders uruchomione na tym komputerze.|Czy chcesz usun¹æ informacje zapisane przez te sesje?
+     3 I 2021-01-19 16:02:00   Program wykry³, ¿e poprzednia sesja programu X:GetOrders na którym pracowa³ operator ADMIN nie zosta³a poprawnie zakoñczona.|Informacja o tym fakcie zosta³a zapisana dla wiadomoœci Administratora.
+     4 O 2021-01-19 16:02:03   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: NoweZamowienie.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     5 O 2021-01-19 16:02:05   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: DodajPozycjeZamowienia.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     6 O 2021-01-19 16:02:05   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: DodajPozycjeZamowienia.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     1 O 2021-01-19 22:01:01   Modu³ Licencja stanowiskowa jest niedostêpny. Dzia³anie programu zostanie zablokowane.||Przyczyna:|Licencje zosta³y wyczerpane
+     2 I 2021-01-19 22:01:01   Wykryto aktywne sesje modu³u X:GetOrders uruchomione na tym komputerze.|Czy chcesz usun¹æ informacje zapisane przez te sesje?
+     3 I 2021-01-19 22:01:01   Program wykry³, ¿e poprzednia sesja programu X:GetOrders na którym pracowa³ operator ADMIN nie zosta³a poprawnie zakoñczona.|Informacja o tym fakcie zosta³a zapisana dla wiadomoœci Administratora.
+     4 O 2021-01-19 22:01:05   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: NoweZamowienie.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     5 O 2021-01-19 22:01:07   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: DodajPozycjeZamowienia.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     6 O 2021-01-19 22:01:07   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: DodajPozycjeZamowienia.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     1 O 2021-01-19 22:07:37   Modu³ Licencja stanowiskowa jest niedostêpny. Dzia³anie programu zostanie zablokowane.||Przyczyna:|Licencje zosta³y wyczerpane
+     2 I 2021-01-19 22:07:37   Wykryto aktywne sesje modu³u X:GetOrders uruchomione na tym komputerze.|Czy chcesz usun¹æ informacje zapisane przez te sesje?
+     3 I 2021-01-19 22:07:37   Program wykry³, ¿e poprzednia sesja programu X:GetOrders na którym pracowa³ operator ADMIN nie zosta³a poprawnie zakoñczona.|Informacja o tym fakcie zosta³a zapisana dla wiadomoœci Administratora.
+     4 O 2021-01-19 22:07:39   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: NoweZamowienie.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     5 O 2021-01-19 22:07:41   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: DodajPozycjeZamowienia.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     6 O 2021-01-19 22:07:41   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: DodajPozycjeZamowienia.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     1 I 2021-01-19 22:09:17   Wykryto aktywne sesje modu³u X:GetOrders uruchomione na tym komputerze.|Czy chcesz usun¹æ informacje zapisane przez te sesje?
+     2 I 2021-01-19 22:09:17   Program wykry³, ¿e poprzednia sesja programu X:GetOrders na którym pracowa³ operator ADMIN nie zosta³a poprawnie zakoñczona.|Informacja o tym fakcie zosta³a zapisana dla wiadomoœci Administratora.
+     1 I 2021-01-19 22:11:54   Wykryto aktywne sesje modu³u X:GetOrders uruchomione na tym komputerze.|Czy chcesz usun¹æ informacje zapisane przez te sesje?
+     2 I 2021-01-19 22:11:54   Program wykry³, ¿e poprzednia sesja programu X:GetOrders na którym pracowa³ operator ADMIN nie zosta³a poprawnie zakoñczona.|Informacja o tym fakcie zosta³a zapisana dla wiadomoœci Administratora.
+     1 O 2021-01-19 22:13:51   Modu³ Licencja stanowiskowa jest niedostêpny. Dzia³anie programu zostanie zablokowane.||Przyczyna:|Licencje zosta³y wyczerpane
+     2 I 2021-01-19 22:13:51   Wykryto aktywne sesje modu³u X:GetOrders uruchomione na tym komputerze.|Czy chcesz usun¹æ informacje zapisane przez te sesje?
+     3 I 2021-01-19 22:13:51   Program wykry³, ¿e poprzednia sesja programu X:GetOrders na którym pracowa³ operator ADMIN nie zosta³a poprawnie zakoñczona.|Informacja o tym fakcie zosta³a zapisana dla wiadomoœci Administratora.
+     4 O 2021-01-19 22:13:56   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: NoweZamowienie.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     5 O 2021-01-19 22:13:58   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: DodajPozycjeZamowienia.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     6 O 2021-01-19 22:13:58   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: DodajPozycjeZamowienia.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     7 O 2021-01-19 22:13:59   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: DodajPozycjeZamowienia.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.
+     8 O 2021-01-19 22:13:59   Uruchomienie tej operacji nie jest mo¿liwe ze wzglêdu na brak dostêpu do modu³u, problem z po³¹czeniem lub niezgodnoœæ danych w kluczu ze stanem faktycznym.||Remedium:|SprawdŸ informacje o kluczu sprzêtowym.||Zaawansowane:|Nazwa uruchamianej procedury: DodajPozycjeZamowienia.
+Procedura ta mo¿e korzystaæ z nastêpuj¹cych modu³ów: Zamówienia.

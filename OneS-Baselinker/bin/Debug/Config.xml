@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XLLogin_Baza>DOMAR2</XLLogin_Baza>
+  <XLLogin_OpeIdent>ADMIN</XLLogin_OpeIdent>
+  <XLLogin_OpeHaslo>Dupa2003!!</XLLogin_OpeHaslo>
+  <XLLogin_ProgramID>One-S_ExportFaktur</XLLogin_ProgramID>
+  <XLServer>SRV1\OPTIMA</XLServer>
+  <XLDatabase>DOMAR2</XLDatabase>
+</Configuration>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneS-Baselinker", "OneS-Baselinker\OneS-Baselinker.csproj", "{DE5420F1-4E1B-4463-8A8C-C515AF5C8F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5420F1-4E1B-4463-8A8C-C515AF5C8F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5420F1-4E1B-4463-8A8C-C515AF5C8F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5420F1-4E1B-4463-8A8C-C515AF5C8F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5420F1-4E1B-4463-8A8C-C515AF5C8F63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E68C96E-B07E-481E-B350-4587A58750C3}
+	EndGlobalSection
+EndGlobal
